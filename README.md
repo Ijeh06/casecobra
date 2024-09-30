@@ -18,6 +18,7 @@ Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Aut
 - ✉️ Beautiful thank-you email after purchase
 - ✅ Apple-inspired configuration design
 - ⌨️ 100% written in TypeScript
+- 😌 rest assured wuality code 
 - 🎁 ...much more
 
 ## Getting started
